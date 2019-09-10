@@ -42,6 +42,8 @@ The project has the following file structure
 We can do it using two mode
 
 ### run in dev mode
+` $ npm install`
+
 ` $ npm run build-dev`
 
 ` $ npm run start`
@@ -49,6 +51,8 @@ We can do it using two mode
 **Note::** The web page can be accessed witht `localhost:8080`
 
 ### run in prod mode
+` $ npm install`
+
 ` $ npm run build-prod`
 
 ` $ npm run start`
